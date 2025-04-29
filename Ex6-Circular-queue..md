@@ -18,7 +18,7 @@ To write a C program to delete three elements from the filled circular queue.
 ```
 /*
 Program to delete three elements from the filled circular queue
-Developed by:     Tarun  S
+Developed by: Tarun S
 RegisterNumber: 212223040226
 
 #include <stdio.h> 
@@ -54,3 +54,10 @@ return element;
 ```
 
 ## Output:
+
+![image](https://github.com/user-attachments/assets/2e8f09af-ef23-475c-b22a-16ec23633893)
+
+
+## Result:
+Thus, the C program to delete three elements from the filled circular queue is implemented successfully.
+
